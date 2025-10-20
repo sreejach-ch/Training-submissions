@@ -1,0 +1,12 @@
+2025-10-20 17:17:14,989 INFO START csv_to_json
+2025-10-20 17:17:14,989 INFO START read_csv
+2025-10-20 17:17:14,990 INFO END read_csv (duration: 0.001s)
+2025-10-20 17:17:14,990 INFO END csv_to_json (duration: 0.001s)
+2025-10-20 17:17:14,990 INFO START task_that_fails
+2025-10-20 17:17:14,990 ERROR ERROR task_that_fails after 0.000s: division by zero
+Traceback (most recent call last):
+  File "C:\Users\Sreeja\Training-submissions-1\Assignment_Submission_October_20_2025\Q3.py", line 28, in wrapper
+    result = func(*args, **kwargs)
+  File "C:\Users\Sreeja\Training-submissions-1\Assignment_Submission_October_20_2025\Q3.py", line 56, in task_that_fails
+    x = 1 / 0
+ZeroDivisionError: division by zero
