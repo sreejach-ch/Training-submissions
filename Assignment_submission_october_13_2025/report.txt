@@ -1,0 +1,59 @@
+Python Programming Concepts and Learnings Report
+Objective
+
+The goal of this exercise was to understand and apply Python concepts across increasing levels of complexity — from basic data structures to functional programming and mini system design. The tasks included:
+
+Creating and working with dictionaries.
+
+Writing reusable functions to compute statistical measures.
+
+Building a small-scale inventory management system using nested dictionaries and modular code.
+
+Concepts Implemented
+a. Dictionary Operations (Easy Task)
+
+Concepts Used: Dictionary creation, key-value pairs, iteration using .keys() and .items().
+
+Implementation: Created an employees dictionary with employee details (name, role, department). Printed all keys to understand dictionary traversal.
+
+Learning: Dictionaries are efficient for structured data storage and quick lookups using unique keys.
+
+b. Functions for Mean and Median (Intermediate Task)
+
+Concepts Used: Functions, loops, conditional logic, sorting, mathematical computation.
+
+Implementation: Defined a function mean_median(values) to calculate mean and median manually without using libraries.
+
+Learning: Practiced creating reusable functions, handling edge cases (like empty lists), and basic algorithmic thinking for sorting and averaging.
+
+c. Mini Inventory System (Hard Task)
+
+Concepts Used: Nested dictionaries, functions, loops, conditionals, modular programming, and formatted printing.
+
+Implementation:
+
+Designed functions to add, update, remove, search, and report inventory items.
+
+Used a nested dictionary where each SKU key stores product details (name, qty, price, location).
+
+Developed an improved inventory_report() function for aligned, readable output.
+
+Learning:
+
+Understood the importance of data modeling using nested structures.
+
+Practiced state management (updating inventory quantities and recalculating totals).
+
+Learned to produce well-formatted console output for better readability.
+
+Reinforced functional decomposition — breaking a large problem into smaller, reusable functions.
+
+Key Learnings
+
+Dictionaries and lists form the backbone of most real-world data handling tasks in Python.
+
+Writing reusable functions improves readability, reduces redundancy, and helps in debugging.
+
+Nested data structures are powerful for representing complex, hierarchical information (e.g., inventory systems).
+
+Proper formatting and clear output presentation make programs more user-friendly.
