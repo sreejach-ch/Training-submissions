@@ -1,0 +1,26 @@
+[
+  {
+    "product_id": 1001,
+    "name": "Wireless Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 129.99,
+    "stock_level": 45,
+    "last_updated": "2025-09-20"
+  },
+  {
+    "product_id": 1002,
+    "name": "Ergonomic Desk Chair",
+    "category": "Furniture",
+    "price": 349.50,
+    "stock_level": 12,
+    "last_updated": "2025-09-25"
+  },
+  {
+    "product_id": 1003,
+    "name": "4K Ultra-Thin Monitor",
+    "category": "Electronics",
+    "price": 599.00,
+    "stock_level": 28,
+    "last_updated": "2025-09-28"
+  }
+]
