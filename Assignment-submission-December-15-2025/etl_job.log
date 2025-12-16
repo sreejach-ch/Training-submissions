@@ -1,0 +1,5 @@
+2025-12-15 22:47:39,692 - INFO - ETL job started
+2025-12-15 22:47:39,692 - INFO - Extraction started
+2025-12-15 22:47:39,693 - INFO - Transformation started
+2025-12-15 22:47:39,698 - INFO - Data loaded to sales_data_20251215_224739.csv
+2025-12-15 22:47:39,698 - INFO - ETL job completed successfully
